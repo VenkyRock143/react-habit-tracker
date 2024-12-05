@@ -2,7 +2,7 @@
 
 A simple habit tracker app built with React.js. This app helps users to track their daily habits and monitor their progress over time.
 
-**Link:** [React Habit Tracker App]([(https://reactjs-habit-tracker.netlify.app/)])
+**Link:** [React Dropdown](https://reactjs-habit-tracker.netlify.app/)
 
 ## Folder Structure
 
